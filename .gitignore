@@ -1,0 +1,4 @@
+*.ipynb
+*.png
+*.arff
+.ipynb_checkpoints/
