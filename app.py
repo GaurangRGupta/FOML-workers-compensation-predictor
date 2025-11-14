@@ -8,7 +8,7 @@ from pathlib import Path
 
 st.set_page_config(page_title="Workers Compensation Claim Cost Predictor")
 
-st.title("Workers Compensation Claim Cost Predictor (Fixed)")
+st.title("Workers Compensation Claim Cost Predictor")
 
 # Load preprocessors + model (ensure relative path from app)
 MODELS_DIR = Path("./models")
